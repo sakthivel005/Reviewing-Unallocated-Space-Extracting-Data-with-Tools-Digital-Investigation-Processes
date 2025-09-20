@@ -42,8 +42,31 @@ flowchart TD
 
 
 ## OUTPUT:
-Unallocated Space Analysis and Extracted Data Report
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 112102" src="https://github.com/user-attachments/assets/20dcd79d-d7b2-4adb-8472-5d88693898f3" />
+
+<img width="972" height="571" alt="Screenshot 2025-09-20 112639" src="https://github.com/user-attachments/assets/4708e5f8-95eb-44bd-8643-dca492bb11cc" />
+
+
+<img width="981" height="583" alt="Screenshot 2025-09-20 112711" src="https://github.com/user-attachments/assets/b929f126-9300-463c-9fba-b2c9991bea17" />
+
+
+<img width="1069" height="652" alt="Screenshot 2025-09-20 112737" src="https://github.com/user-attachments/assets/00d2b52d-587d-404f-a9db-d227ee8a28cc" />
+
+
+<img width="1077" height="675" alt="Screenshot 2025-09-20 112758" src="https://github.com/user-attachments/assets/cb4ffbe9-52c6-4634-8105-fe1a48d460e9" />
+
+<img width="1081" height="671" alt="Screenshot 2025-09-20 112900" src="https://github.com/user-attachments/assets/51afe89a-4884-4352-ab72-af201bb163f1" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 113110" src="https://github.com/user-attachments/assets/344c94b1-1bd6-4be1-959b-741f8820424b" />
+
+
+<img width="1919" height="1078" alt="Screenshot 2025-09-20 113313" src="https://github.com/user-attachments/assets/f6b94f13-ee4f-4730-a072-13319870fe9f" />
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 113419" src="https://github.com/user-attachments/assets/afa161e2-5f07-4402-b776-cfcecf208080" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-20 113628" src="https://github.com/user-attachments/assets/b70da430-c224-46fd-ab72-5448adfa4210" />
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
-
